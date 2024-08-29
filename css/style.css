@@ -12,3 +12,11 @@ nav{
     background-size: cover;
     background-position: center;
 }
+
+.hovered-card{
+    transition: .3s;
+}
+
+.hovered-card:hover{
+    transform: scale(1.1);
+}
