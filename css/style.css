@@ -2,7 +2,7 @@ body{
     font-family: cursive;
 }
 
-nav{
+.main-color{
     background-color: darkgreen;
 }
 
@@ -19,4 +19,12 @@ nav{
 
 .hovered-card:hover{
     transform: scale(1.1);
+}
+
+.icon-service{
+    color: white;
+    width: 90px;
+    height: 90px;
+    border: white solid 2px;
+    border-radius: 50%;
 }
