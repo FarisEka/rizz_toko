@@ -28,3 +28,7 @@ body{
     border: white solid 2px;
     border-radius: 50%;
 }
+
+.container-subs{
+    background-color: rgba(0, 0, 0, 0.7);
+}
