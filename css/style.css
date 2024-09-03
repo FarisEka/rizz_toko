@@ -6,6 +6,14 @@ body{
     background-color: darkgreen;
 }
 
+.second-color{
+    background-color: rgb(169, 213, 169);
+}
+
+.main-title{
+    color: darkgreen;
+}
+
 .banner{
     height: 80vh;
     background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner.jpg');
@@ -31,4 +39,11 @@ body{
 
 .container-subs{
     background-color: rgba(0, 0, 0, 0.7);
+}
+
+.banner-produk{
+    height: 60vh;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('../image/banner.jpg');
+    background-size: cover;
+    background-position: center;
 }
